@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/direct-exchange/direct-exchange.iml" filepath="$PROJECT_DIR$/direct-exchange/direct-exchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanout-exchange/fanout-exchange.iml" filepath="$PROJECT_DIR$/fanout-exchange/fanout-exchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topic-exchange/topic-exchange.iml" filepath="$PROJECT_DIR$/topic-exchange/topic-exchange.iml" />
+    </modules>
+  </component>
+</project>
